@@ -7,6 +7,10 @@
 //
 
 #import <UIKit/UIKit.h>
+#import <CoreDataHelper.h>
+#import <CoreDataHelper+Saver.h>
+#import <NSManagedObject+Creation.h>
+#import <NSManagedObject+Fetch.h>
 
 //! Project version number for CoreDataHelperObjC.
 FOUNDATION_EXPORT double CoreDataHelperObjCVersionNumber;
